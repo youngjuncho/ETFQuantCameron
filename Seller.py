@@ -65,5 +65,5 @@ def monitor_etf_pro(tickers):
     print("="*70)
 
 # 분석할 ETF/주식 티커 (미국/한국 혼합 가능)
-my_list = ['IEFA', 'SCHP', 'EMB', 'PDBC', 'BIL', 'GLD', 'IAU', 'SLV', 'IEF', 'QQQ', 'TLT']
+my_list = ['EFA', 'TIP', 'EMB', 'DBC', 'BIL', 'GLD', 'SLV', 'IEF', 'QQQ', 'TLT']
 monitor_etf_pro(my_list)
